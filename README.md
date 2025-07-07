@@ -22,7 +22,7 @@
 
 - 💻Lógica de Programação
 
-- 🌐C | SQL
+- 🌐C | SQL | HTML
 
 - ⚙Git & GitHub
 
