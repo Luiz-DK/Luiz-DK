@@ -20,10 +20,10 @@
 
 ## 🛠 Tecnologias que estou explorando
 
-- 💻Lógica de Programação
+- 💻 Lógica de Programação
 
-- 🌐C | SQL | HTML
+- 🌐 C | SQL | HTML
 
-- ⚙Git & GitHub
+- ⚙ Git & GitHub
 
-- 📘Visual Studio Code | Dev-C++
+- 📘 Visual Studio Code | Dev-C++
