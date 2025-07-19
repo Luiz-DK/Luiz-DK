@@ -6,8 +6,6 @@
 
 🚀 Buscando oportunidades para aprender, praticar e colaborar em projetos reais
 
-📚 Atualmente estudando: **Lógica de Programação. Banco de Dados com SQL**
-
 ## 🛠 Tecnologias e Linguagens que estou explorando
 
 [![My Skills](https://skillicons.dev/icons?i=c,github,html,sqlite,vscode)](https://skillicons.dev)
@@ -24,8 +22,7 @@
 ![Luiz-DK's Stats](https://github-readme-stats.vercel.app/api?username=Luiz-DK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Luiz-DK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-DK&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-## 🌱 O que estou aprendendo agora
-
+## 📚 Atualmente estudando
 - Fundamentos de Programação em C
 
 - Controle de Versões com **Git e GitHub**
