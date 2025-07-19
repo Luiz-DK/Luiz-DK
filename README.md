@@ -18,8 +18,9 @@
 
 - Conceitos Básicos de **Engenharia de Software**
 
-## 🛠 Tecnologias que estou explorando
+## 🛠 Tecnologias e Linguagens que estou explorando
 
+[![My Skills](https://skillicons.dev/icons?i=c,github,html,sqlite,vscode)](https://skillicons.dev)
 - 💻 Lógica de Programação
 
 - 🌐 C | SQL | HTML
@@ -27,3 +28,8 @@
 - ⚙ Git & GitHub
 
 - 📘 Visual Studio Code | Dev-C++
+
+## ⭐ GitHub Stats
+
+![Luiz-DK's Stats](https://github-readme-stats.vercel.app/api?username=Luiz-DK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Luiz-DK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-DK&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
